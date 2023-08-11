@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
             function submitform(token) {
                 var page_url = window.location.href;
                 formData.append("pagename", page_url);
-                formData.append("country_code", "in");
+                formData.append("country_code", "");
                 var formDataObject = {};
                     formData.forEach((value, key) => {
                         formDataObject[key] = value;
