@@ -7,5 +7,6 @@ RewriteRule ^branding/$ /branding-page-usa.html [L]
 RewriteRule ^thankyou/$ /thankyou.html [L]
 RewriteRule ^OTT-Platform/$ /ott-platform.html [L]
 RewriteRule ^website-design-company/$ /website-design-company.html [L]
+RewriteRule ^grocery-app/$ /grocery-app.html [L]
 
 </IfModule>
